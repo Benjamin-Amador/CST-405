@@ -1,0 +1,22 @@
+int test(int y){
+	return y;
+}
+
+int main(){
+
+	float num;
+	int max1;
+	int 3max;
+	int max#;
+	char max;
+	hy!_h;
+	intt x;;
+	/
+	&&
+	==
+	<= >= - !=
+	if check else good
+	x = test(10);
+	write(x);
+	return x;
+}
